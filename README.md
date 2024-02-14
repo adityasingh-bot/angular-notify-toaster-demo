@@ -115,7 +115,7 @@ The library provides a notification which is written in Angular and it is depend
   }
   ```
   
-For LIVE DEMO checkout
+For LIVE DEMO checkout on https://notify-toaster.netlify.app/
 
 
 
